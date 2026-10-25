@@ -7,6 +7,12 @@
 
 A kanban board for planning team work across four stages: **Backlog → In progress → Review → Done**. Cards can be dragged with a mouse or moved with buttons, so the board works for keyboard and screen-reader users too. Everything is saved in the browser, with no backend.
 
+## Live demo
+
+**https://sami1507.github.io/react-kanban-board/**
+
+The demo is deployed from `main` by the `Deploy live demo` workflow. Your board is saved in your own browser, so the demo has no shared state.
+
 ## Features
 
 - Add, move and delete tasks; each task has a title, optional description and a priority
